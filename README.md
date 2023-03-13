@@ -1,7 +1,9 @@
 ### Hi there 👋
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamedWS&show_icons=true&theme=tokyonight)
 <!--
-
+#### 🌱 I’m currently learning js, react
+#### 💬 Ask me about html, css, js, react
+#### 📫 How to reach me: hamedwosugy@gmail.com
 
 ##
 ### Languages & tools:
